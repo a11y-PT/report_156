@@ -1,10 +1,10 @@
 ---
-website: "nome_do_sítio_Web"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://dominio_sitio_web.pt"   # Entre as aspas escreve o domínio do website
-a11y_statement: "https://dominio_sitio_web.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
-owner: "nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
-seal: "qual_o_selo"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+website: "Bem-Me-Ker"          # Entre as aspas escreve o nome do website
+date: "22/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+uri: "https://bemmeker-ipoporto.min-saude.pt"   # Entre as aspas escreve o domínio do website
+a11y_statement: "https://bemmeker-ipoporto.min-saude.pt/accessibility-declaration" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+owner: "IPO Porto"         # Entre as aspas escrever o nome do owner do website
+seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
 status: "Auditoria a decorrer" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
